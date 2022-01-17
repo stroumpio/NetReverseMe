@@ -20,8 +20,8 @@ Locate and run the new .exe file in the project folder.
 
 ## Usage
 The application asks for a secret word. The aim is to perform a vulnerability assessment on the authentication system. \
-This challenge was part of Ioannis Stroumpoulis Bachelor's Thesis. You can find more information on [Reverse Engineering of
+This challenge was part of Ioannis Stroumpoulis Bachelor's Thesis. <!--- You can find more information on [Reverse Engineering of
 Applications in Windows and
-Android Environments](https://drive.google.com/file/d/1xeRZGojgvr79AzDvFjrKTBJTLTiEyGBC/view) (pages 34-43)
+Android Environments](https://drive.google.com/file/d/1xeRZGojgvr79AzDvFjrKTBJTLTiEyGBC/view) (pages 34-43) -->
 
 ##### Feel free to play and make changes! :)

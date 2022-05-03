@@ -19,9 +19,9 @@ From the Visual Studio navigation bar select `Build` -> `Build NetReverseMe` \
 Locate and run the new .exe file in the project folder.
 
 ## Usage
-The application asks for a secret word. The aim is to perform a vulnerability assessment on the authentication system. \
+The application asks for a secret word. The aim is to perform reverse engineering in the authentication system. \
 This challenge was part of Ioannis Stroumpoulis Bachelor's Thesis. <!--- You can find more information on [Reverse Engineering of
 Applications in Windows and
-Android Environments](https://drive.google.com/file/d/1xeRZGojgvr79AzDvFjrKTBJTLTiEyGBC/view) (pages 34-43) -->
+Android Environments](https://docs.google.com/presentation/d/1ZbVr6Uw_gmDppsU6jYt4ChTxZIgxIKue/edit?usp=sharing&ouid=102026856629501970421&rtpof=true&sd=true) (pages 22-32) -->
 
 ##### Feel free to play and make changes! :)
